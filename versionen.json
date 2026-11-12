@@ -1,9 +1,9 @@
 {
   "recorder": {
-    "build": 30,
-    "version": "2.8",
+    "build": 31,
+    "version": "2.9",
     "link": "https://testflight.apple.com/join/UeC6wdwP",
-    "neu": "Neu: Installationsanleitung im Zahnrad, Kunde und Anlage im Kopf, Assistent Neue iPhone-Station (Master), Name Maschinen KI, Maschinen KI verlassen, Erinnerung alle 10 Minuten, Aussehen wie EMIL, Selbsttest, Gerätedaten, Hilfe vor Ort."
+    "neu": "Datenschutz: Maschinenvideos werden nicht mehr in die Apple-Fotos-App gelegt, sie bleiben nur in Maschinen KI und gehen ans iPad. Vorschaubild öffnet die Video-Liste der App."
   },
   "ipad": {
     "build": 21,
