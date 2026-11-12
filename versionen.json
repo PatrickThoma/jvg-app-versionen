@@ -1,4 +1,14 @@
 {
-  "recorder": {"build": 26, "version": "2.4", "link": "https://testflight.apple.com/join/UeC6wdwP", "neu": "Selbsttest, Gerätedaten, Hilfe vor Ort, App-Sperre automatisch"},
-  "ipad": {"build": 17, "version": "2.6", "link": "https://testflight.apple.com/join/ttc527gQ", "neu": "Ampel mit Grund je Kamera, Hinweis Automatik aus, Selbsttest, Diagnose senden"}
+  "recorder": {
+    "build": 30,
+    "version": "2.8",
+    "link": "https://testflight.apple.com/join/UeC6wdwP",
+    "neu": "Neu: Installationsanleitung im Zahnrad, Kunde und Anlage im Kopf, Assistent Neue iPhone-Station (Master), Name Maschinen KI, Maschinen KI verlassen, Erinnerung alle 10 Minuten, Aussehen wie EMIL, Selbsttest, Gerätedaten, Hilfe vor Ort."
+  },
+  "ipad": {
+    "build": 21,
+    "version": "3.0",
+    "link": "https://testflight.apple.com/join/ttc527gQ",
+    "neu": "Neu: Installationsanleitung im Zahnrad, Kunde und Anlage im Kopf, Assistent Neue iPhone-Station (Master), Name Maschinen KI, Maschinen KI verlassen, Erinnerung alle 10 Minuten, Aussehen wie EMIL, Selbsttest, Gerätedaten, Hilfe vor Ort."
+  }
 }
