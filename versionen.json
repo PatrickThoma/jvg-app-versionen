@@ -6,10 +6,10 @@
     "neu": "Firmen-Kopplung: iPad und iPhones koppeln sich per Direktfunk selbst, ohne QR-Code. Einrichtung per Kabel vom Laptop (KI-Schlüssel, Kunde, Anlage, Zeitfenster)."
   },
   "ipad": {
-    "build": 21,
-    "version": "3.0",
+    "build": 24,
+    "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "Automatikbetrieb startet die erste Aufnahme sofort, danach regelmäßig. Update direkt wie bei EMIL.",
+    "neu": "Firmen-Kopplung: iPad und iPhones koppeln sich per Direktfunk selbst, ohne QR-Code. Einrichtung per Kabel vom Laptop (KI-Schlüssel, Kunde, Anlage, Zeitfenster).",
     "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/26/manifest.plist",
     "direktBuild": 26
   }
