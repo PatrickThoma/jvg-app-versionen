@@ -1,9 +1,9 @@
 {
   "recorder": {
-    "build": 31,
-    "version": "2.9",
+    "build": 33,
+    "version": "3.0",
     "link": "https://testflight.apple.com/join/UeC6wdwP",
-    "neu": "Datenschutz: Maschinenvideos werden nicht mehr in die Apple-Fotos-App gelegt, sie bleiben nur in Maschinen KI und gehen ans iPad. Vorschaubild öffnet die Video-Liste der App."
+    "neu": "Firmen-Kopplung: iPad und iPhones koppeln sich per Direktfunk selbst, ohne QR-Code. Einrichtung per Kabel vom Laptop (KI-Schlüssel, Kunde, Anlage, Zeitfenster)."
   },
   "ipad": {
     "build": 21,
