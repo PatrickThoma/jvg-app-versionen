@@ -9,8 +9,8 @@
     "build": 24,
     "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "Firmen-Kopplung: iPad und iPhones koppeln sich per Direktfunk selbst, ohne QR-Code. Einrichtung per Kabel vom Laptop (KI-Schlüssel, Kunde, Anlage, Zeitfenster).",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/26/manifest.plist",
-    "direktBuild": 26
+    "neu": "E-Mail-Meldungen einstellbar (aus oder 1x täglich, Adresse frei wählbar). Standard: aus bis zum Produktionsbetrieb.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/27/manifest.plist",
+    "direktBuild": 27
   }
 }
