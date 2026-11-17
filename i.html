@@ -1,0 +1,13 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Maschinen KI iPad installieren</title>
+<style>body{font-family:-apple-system,sans-serif;text-align:center;padding:60px 20px;background:#faf7f2;color:#222}
+a.k{display:inline-block;margin-top:30px;padding:28px 50px;font-size:30px;font-weight:600;color:#fff;background:#b0642c;border-radius:16px;text-decoration:none}
+p{font-size:20px}</style></head><body>
+<h1>Maschinen KI iPad</h1><p id="v">Neueste Version wird geladen ...</p>
+<a class="k" id="k" href="#">Jetzt installieren</a>
+<p>Danach bei der Frage "Installieren" bestätigen.<br>Die App startet anschließend wie gewohnt.</p>
+<script>
+fetch('versionen.json?'+Date.now()).then(r=>r.json()).then(v=>{const i=v.ipad;
+document.getElementById('k').href='itms-services://?action=download-manifest&url='+encodeURIComponent(i.direkt);
+document.getElementById('v').textContent='Build '+i.direktBuild;});
+</script></body></html>
