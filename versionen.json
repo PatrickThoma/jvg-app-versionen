@@ -9,8 +9,8 @@
     "build": 24,
     "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "E-Mail-Meldungen einstellbar (aus oder 1x täglich, Adresse frei wählbar). Standard: aus bis zum Produktionsbetrieb.",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/27/manifest.plist",
-    "direktBuild": 27
+    "neu": "Videos werden zuverlässiger abgeholt (auch große über Direktfunk), echter Fehlergrund in der Meldung, Pause bei warmem iPhone.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/28/manifest.plist",
+    "direktBuild": 28
   }
 }
