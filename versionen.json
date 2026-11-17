@@ -9,8 +9,8 @@
     "build": 24,
     "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "Update-Knopf löst die App-Sperre kurz selbst, sucht stündlich nach Updates. Videos werden zuverlässiger abgeholt, Pause bei warmem iPhone.",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/29/manifest.plist",
-    "direktBuild": 29
+    "neu": "Updates kommen jetzt von selbst: das iPad meldet sich außerhalb der Aufnahmezeiten mit Installieren, App-Sperre wird dafür kurz gelöst. Videos werden zuverlässiger abgeholt.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/30/manifest.plist",
+    "direktBuild": 30
   }
 }
