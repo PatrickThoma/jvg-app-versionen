@@ -9,8 +9,8 @@
     "build": 24,
     "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "Videos werden zuverlässiger abgeholt (auch große über Direktfunk), echter Fehlergrund in der Meldung, Pause bei warmem iPhone.",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/28/manifest.plist",
-    "direktBuild": 28
+    "neu": "Update-Knopf löst die App-Sperre kurz selbst, sucht stündlich nach Updates. Videos werden zuverlässiger abgeholt, Pause bei warmem iPhone.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/29/manifest.plist",
+    "direktBuild": 29
   }
 }
