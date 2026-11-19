@@ -9,8 +9,8 @@
     "build": 24,
     "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "Updates kommen jetzt von selbst: das iPad meldet sich außerhalb der Aufnahmezeiten mit Installieren, App-Sperre wird dafür kurz gelöst. Videos werden zuverlässiger abgeholt.",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/30/manifest.plist",
-    "direktBuild": 30
+    "neu": "Aufnahmen höchstens 10 Minuten je Zeitfenster (gegen Hitze am iPhone). Klare Meldung, wenn ein iPhone zum Abholen zu warm ist. Update-Anzeige korrigiert.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/31/manifest.plist",
+    "direktBuild": 31
   }
 }
