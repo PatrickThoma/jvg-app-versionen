@@ -3,7 +3,9 @@
     "build": 33,
     "version": "3.0",
     "link": "https://testflight.apple.com/join/UeC6wdwP",
-    "neu": "Firmen-Kopplung: iPad und iPhones koppeln sich per Direktfunk selbst, ohne QR-Code. Einrichtung per Kabel vom Laptop (KI-Schlüssel, Kunde, Anlage, Zeitfenster)."
+    "neu": "Kamera-Ruhe zwischen den Aufnahmen (Kamera, Licht, Bildschirm aus), Ruhe-Befehl vom iPad, Updates kommen von selbst.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/recorder/34/manifest.plist",
+    "direktBuild": 34
   },
   "ipad": {
     "build": 24,
