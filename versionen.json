@@ -9,8 +9,8 @@
     "build": 24,
     "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "Aufnahmen höchstens 10 Minuten je Zeitfenster (gegen Hitze am iPhone). Klare Meldung, wenn ein iPhone zum Abholen zu warm ist. Update-Anzeige korrigiert.",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/31/manifest.plist",
-    "direktBuild": 31
+    "neu": "KI kennt den Automatikbetrieb richtig (keine Meldung mehr 'Zeitplan ist aus') und rechnet immer mit der aktuellen Uhrzeit.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/32/manifest.plist",
+    "direktBuild": 32
   }
 }
