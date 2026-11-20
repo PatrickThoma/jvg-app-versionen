@@ -9,8 +9,8 @@
     "build": 24,
     "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "Schlafmodus: Mond-Taste oben links oder automatisch nach 5 Minuten, Antippen weckt auf. Updates erscheinen nach spätestens 5 Minuten. Ruhende iPhone-Kameras gelten nicht als Fehler.",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/33/manifest.plist",
-    "direktBuild": 33
+    "neu": "Fehler behoben: Eingabefeld, Knöpfe und Abschicken an die KI funktionieren wieder (auch nach dem Schlafmodus). Schlafmodus legt auch die iPhones schlafen (ab iPhone-Version 34).",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/34/manifest.plist",
+    "direktBuild": 34
   }
 }
