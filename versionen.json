@@ -11,8 +11,8 @@
     "build": 24,
     "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "Fehler behoben: Eingabefeld, Knöpfe und Abschicken an die KI funktionieren wieder (auch nach dem Schlafmodus). Schlafmodus legt auch die iPhones schlafen (ab iPhone-Version 34).",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/34/manifest.plist",
-    "direktBuild": 34
+    "neu": "Stationen ordnen sich selbst: ausgetauschte iPhones werden erkannt, Nummern bleiben lückenlos 1, 2, 3. Kreuz zum Löschen der ganzen Eingabe im KI-Feld. Neuer Text im Kopf.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/35/manifest.plist",
+    "direktBuild": 35
   }
 }
