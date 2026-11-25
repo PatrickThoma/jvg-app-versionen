@@ -11,8 +11,8 @@
     "build": 24,
     "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "Mond-Taste schaltet alles aus: Aufnahmen stoppen, keine Zeitfenster, alle iPhones ruhen, bis jemand das iPad antippt. Ohne Berührung wird nach 5 Minuten nur der Bildschirm dunkel, die Aufnahmen laufen weiter.",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/37/manifest.plist",
-    "direktBuild": 37
+    "neu": "Das iPad meldet sich nach jedem Update sofort bei J. v. G., ebenso nach ausgeführten Fernbefehlen.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/38/manifest.plist",
+    "direktBuild": 38
   }
 }
