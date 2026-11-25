@@ -11,8 +11,8 @@
     "build": 24,
     "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "Stationen ordnen sich selbst: ausgetauschte iPhones werden erkannt, Nummern bleiben lückenlos 1, 2, 3. Kreuz zum Löschen der ganzen Eingabe im KI-Feld. Neuer Text im Kopf.",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/35/manifest.plist",
-    "direktBuild": 35
+    "neu": "Schlafmodus legt alle iPhones zuverlässig schlafen (jede Minute erneut, außer während einer Aufnahme). Knopf 'Videos bis gestern löschen' im Administrator-Bereich. J.v.G. kann Videos auch aus der Ferne löschen lassen.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/36/manifest.plist",
+    "direktBuild": 36
   }
 }
