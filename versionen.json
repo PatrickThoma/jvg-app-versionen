@@ -11,8 +11,8 @@
     "build": 24,
     "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "Das iPad meldet sich nach jedem Update sofort bei J. v. G., ebenso nach ausgeführten Fernbefehlen.",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/38/manifest.plist",
-    "direktBuild": 38
+    "neu": "Videos abholen blockiert den KI-Chat nicht mehr (läuft im Hintergrund). Knopf Aufnahme jetzt 10 Minuten. Sofortmeldung nach Update an J. v. G.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/39/manifest.plist",
+    "direktBuild": 39
   }
 }
