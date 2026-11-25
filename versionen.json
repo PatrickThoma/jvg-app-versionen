@@ -11,8 +11,8 @@
     "build": 24,
     "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "Videos abholen blockiert den KI-Chat nicht mehr (läuft im Hintergrund). Knopf Aufnahme jetzt 10 Minuten. Sofortmeldung nach Update an J. v. G.",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/39/manifest.plist",
-    "direktBuild": 39
+    "neu": "Zellprüfung (Einrichtbetrieb > Zellprüfung), Meldungen als Ticker mit OK, Kopf fest oben, Schlafmodus legt alle iPhones zuverlässig schlafen, Knopf Aufnahme starten, Videos abholen im Hintergrund.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/41/manifest.plist",
+    "direktBuild": 41
   }
 }
