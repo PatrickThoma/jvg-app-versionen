@@ -11,8 +11,8 @@
     "build": 24,
     "version": "3.3",
     "link": "https://testflight.apple.com/join/ttc527gQ",
-    "neu": "Schlafmodus legt alle iPhones zuverlässig schlafen (jede Minute erneut, außer während einer Aufnahme). Knopf 'Videos bis gestern löschen' im Administrator-Bereich. J.v.G. kann Videos auch aus der Ferne löschen lassen.",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/36/manifest.plist",
-    "direktBuild": 36
+    "neu": "Mond-Taste schaltet alles aus: Aufnahmen stoppen, keine Zeitfenster, alle iPhones ruhen, bis jemand das iPad antippt. Ohne Berührung wird nach 5 Minuten nur der Bildschirm dunkel, die Aufnahmen laufen weiter.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/ipad/37/manifest.plist",
+    "direktBuild": 37
   }
 }
