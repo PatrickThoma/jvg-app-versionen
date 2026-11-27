@@ -3,9 +3,9 @@
     "build": 33,
     "version": "3.0",
     "link": "https://testflight.apple.com/join/UeC6wdwP",
-    "neu": "Zellprüfung mit Referenz (Voll-, Halb-, Drittelzellen), Kamera-Bereitschaft, kein Selbst-Nachholen nach Hitze.",
-    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/recorder/36/manifest.plist",
-    "direktBuild": 36
+    "neu": "Vibration erst ab Automatik, Grenzen gelb 0,20 / rot 0,60 m/s². Bild regelt vor jeder Aufnahme ein, dann Belichtung, Fokus, Farbe fest. Zellprüfung ohne SPS.",
+    "direkt": "https://raw.githubusercontent.com/PatrickThoma/jvg-app-versionen/main/recorder/37/manifest.plist",
+    "direktBuild": 37
   },
   "ipad": {
     "build": 24,
